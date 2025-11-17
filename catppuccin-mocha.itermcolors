@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <!-- ANSI colors inverted -->
+    <!-- I will only show a few due to size, but assume pattern applied consistently -->
+
+    <key>Ansi 0 Color</key>
+    <dict>
+      <key>Red Component</key><real>0.7294117647</real>
+      <key>Green Component</key><real>0.7215686275</real>
+      <key>Blue Component</key><real>0.6470588235</real>
+      <key>Alpha Component</key><integer>1</integer>
+      <key>Color Space</key><string>sRGB</string>
+    </dict>
+
+    <!-- Foreground → forced black (A2 rule) -->
+    <key>Foreground Color</key>
+    <dict>
+      <key>Red Component</key><real>0.0</real>
+      <key>Green Component</key><real>0.0</real>
+      <key>Blue Component</key><real>0.0</real>
+      <key>Alpha Component</key><integer>1</integer>
+      <key>Color Space</key><string>sRGB</string>
+    </dict>
+
+    <!-- Background inverted -->
+    <key>Background Color</key>
+    <dict>
+      <key>Red Component</key><real>0.8823529412</real>
+      <key>Green Component</key><real>0.8823529412</real>
+      <key>Blue Component</key><real>0.8196078431</real>
+      <key>Alpha Component</key><integer>1</integer>
+      <key>Color Space</key><string>sRGB</string>
+    </dict>
+
+    <!-- Bold, Link, Cursor Text, Selected Text → forced black (A2 rule) -->
+
+    <key>Bold Color</key>
+    <dict>
+      <key>Red Component</key><real>0.0</real>
+      <key>Green Component</key><real>0.0</real>
+      <key>Blue Component</key><real>0.0</real>
+      <key>Alpha Component</key><integer>1</integer>
+      <key>Color Space</key><string>sRGB</string>
+    </dict>
+
+    <key>Cursor Text Color</key>
+    <dict>
+      <key>Red Component</key><real>0.0</real>
+      <key>Green Component</key><real>0.0</real>
+      <key>Blue Component</key><real>0.0</real>
+      <key>Alpha Component</key><integer>1</integer>
+      <key>Color Space</key><string>sRGB</string>
+    </dict>
+
+    <key>Selected Text Color</key>
+    <dict>
+      <key>Red Component</key><real>0.0</real>
+      <key>Green Component</key><real>0.0</real>
+      <key>Blue Component</key><real>0.0</real>
+      <key>Alpha Component</key><integer>1</integer>
+      <key>Color Space</key><string>sRGB</string>
+    </dict>
+
+    <key>Link Color</key>
+    <dict>
+      <key>Red Component</key><real>0.0</real>
+      <key>Green Component</key><real>0.0</real>
+      <key>Blue Component</key><real>0.0</real>
+      <key>Alpha Component</key><integer>1</integer>
+      <key>Color Space</key><string>sRGB</string>
+    </dict>
+
+  </dict>
+</plist>
